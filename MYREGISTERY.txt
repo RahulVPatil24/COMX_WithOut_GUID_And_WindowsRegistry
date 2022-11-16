@@ -1,1 +1,0 @@
-{ "3131" : "C:\\WinDev2022\\COMX\\Server\\ClassFactoryDllServerWithRegFile.dll" }
